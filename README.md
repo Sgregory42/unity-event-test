@@ -7,3 +7,4 @@ The scene has
 - 2 listeners (an example UIAnimation System, SomeProcessor System)
 
 When you click on a cube it will send an event that something has changed with the name of the cube (see logs)
+the listener then log the name of the object.
