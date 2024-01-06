@@ -1,2 +1,2 @@
-# unity-event-test
+# unity-event-registry
  
